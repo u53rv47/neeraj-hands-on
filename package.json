@@ -1,0 +1,17 @@
+{
+  "name": "mystore",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/routers/sellAndBuy.js",
+  "scripts": {
+    "start": "node src/routers/sellAndBuy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.3"
+  }
+}
